@@ -17,8 +17,7 @@ Point A쪽 연산이 느린 것 같아 affine coordinate를 대신 사용하면 
 
 - joint_sparse_form.h
 
-Binary Form 대신 Joint Sparse Form을 사용하면 속도가 더 빨라진다는 논문이 있어
-구현해보았으나 현재 구현한 코드는 Binary Form을 이용한 코드보다 느림
+Binary Form 대신 Joint Sparse Form을 사용하면 속도가 더 빨라진다는 논문이 있어 구현해보았으나, 현재 구현한 코드는 Binary Form을 이용한 코드보다 느림
 
 - test.h
 
