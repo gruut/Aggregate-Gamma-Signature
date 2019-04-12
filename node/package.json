@@ -1,0 +1,16 @@
+{
+  "name": "ags",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "asn1.js": "^5.0.1",
+    "elliptic": "^6.4.1",
+    "sjcl": "https://github.com/bitwiseshiftleft/sjcl/tarball/master"
+  }
+}
