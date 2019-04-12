@@ -8,9 +8,7 @@
 
 Shamir Trick을 이용한 aggregate gamma signature
 
-TODO 
-
-aggregate, aggregate verify : T와 A의 원소가 중복인지 체크하는 부분의 속도가 느려 개선이 필요( hash map을 이용하면 속도 향상이 가능하다고 합니다. )
+TODO : aggregate, aggregate verify에서 T와 A의 원소가 중복인지 체크하는 부분의 속도가 느려 개선이 필요( hash map을 이용하면 속도 향상이 가능하다고 합니다. )
 
 - ags.h
 
