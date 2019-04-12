@@ -1,10 +1,10 @@
 # Aggregate-Gamma-Signature
 
 # Signer
-- sign 함수에 private key pem, message를 넣어주면 verify에 필요한 d, z가 나옴
+  - sign 함수에 private key pem, message를 넣어주면 verify에 필요한 d, z가 나옴
 
 # Merger
-- aggregate_gamma_signature.h
+  - aggregate_gamma_signature.h
 
 Shamir Trick을 이용한 aggregate gamma signature
 
